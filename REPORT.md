@@ -1,4 +1,4 @@
-# Exploring quality of UK open data
+# Exploring the quality of UK open data
 
 This report summarises the results of a short exploratory project to explore the data quality of three UK government open datasets. The project is a joint exercise carried out by the Open Data Institute (ODI) and [the Experian data quality team](https://www.edq.com/uk).
 
