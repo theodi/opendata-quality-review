@@ -1,4 +1,4 @@
-## Exploring open data quality: report
+# Exploring open data quality: report
 
 This report summarises the results of a short exploratory project to explore the data quality of three UK government open datasets. The project is a joint exercise carried out by the Open Data Institute (ODI) and [the Experian data quality team](https://www.edq.com/uk).
 
@@ -12,7 +12,7 @@ The goals of the project were to:
 
 A summary of the findings are available below. The data quality summaries produced during the exercise have also been published under an open licence so can be freely accessed, used and shared.
 
-### Methodology
+## Methodology
 
 For an initial exploratory analysis two aspects of data quality were investigated: 
 
@@ -52,12 +52,10 @@ The datasets were then reviewed as follows:
 
 6. An attempt was made to find the open data certificate for each dataset by looking at the dataset homepage, it’s entry on data.gov.uk or, as a fallback, by searching within the certificates application. If found, then the certificate was then reviewed
 
-### Reviewed Datasets
+## Reviewed Datasets
 
 The reviews were carried out on the following datasets. 
-
-  
-
+ 
 1. Land Registry Price Paid data
 
     1. [dataset homepage](https://data.gov.uk/dataset/land-registry-monthly-price-paid-data) (specifically: "2015 FULL Price Paid Data-Single file 1995-2015")
@@ -78,7 +76,7 @@ The reviews were carried out on the following datasets.
 
 The reviews were carried out on 16th August 2016 using the latest available data on that date.
 
-### Data Quality Reports
+## Data Quality Reports
 
 Three reports have been generated for each of the datasets. These are:
 
@@ -98,7 +96,7 @@ The individual data packages can be downloaded using the following links:
 
 3. The NHS Choices [GP Practices and Surgeries dataset](https://paulmalyon.github.io/gp-practices-and-surgeries-data-quality-overview/)
 
-### Summary: Land Registry
+## Review: Land Registry
 
 The Land Registry dataset has a self-assessed Silver level open data certificate. While the data is published as both Linked Data and as CSV downloads, only the CSV version was reviewed in this study.
 
@@ -128,7 +126,7 @@ Investigating the contents of the data highlighted that:
 
 In terms of its structure and consistency of content the dataset appears to have a reasonably high quality.
 
-### Review: Companies House
+## Review: Companies House
 
 A quick review of the dataset homepage shows that only limited information and metadata is available for reusers:
 
@@ -168,7 +166,7 @@ Our understanding is that the data collected and published by Companies House in
 
 Matching data against an authoritative address source would significantly improve the quality of the open data.
 
-### Review: NHS GP Practices
+## Review: NHS GP Practices
 
 The GP Practices and Surgeries dataset is published by NHS Choices. The dataset is aligned with a similar set of data that is provided by the NHS Organisational Data Service but which is published in a slightly different format and to a separate location.
 
@@ -204,7 +202,7 @@ The basic problems with formatting of this dataset make this dataset extremely d
 
 The Organisational Data Service would likely offer a better source of this data, however it is not listed on data.gov.uk and so less discoverable for users.
 
-### Conclusions
+## Conclusions
 
 This brief survey has highlighted a number of data quality issues with several datasets available on data.gov.uk.
 
